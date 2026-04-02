@@ -1,4 +1,3 @@
-name = "wrangler.toml"
 name = "cm2-0208123"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
